@@ -1,1 +1,1 @@
-git clone {repo URL} \n git add . \n git commit -m commit message \n git branch -a n\ git checkout <branch name> \n git checkout -b <new branch> \n git push \n rm -r <file name> 
+git clone {repo URL} \n git add . \n git commit -m commit message \n git branch -a n\ git checkout <branch name> \n git checkout -b <new branch> \n git push \n rm -r <file name>
