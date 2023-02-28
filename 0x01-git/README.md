@@ -1,1 +1,1 @@
-new read me for the new directory
+This Repository is where I work on ALX projects.
